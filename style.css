@@ -1,0 +1,113 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	background-color: #DEFBF3;
+	background: url(Images/images.jpg);
+	background-size: cover;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+header{
+	background-color: #fff;
+	padding: 18px;
+}
+
+nav ul
+{
+	margin: 0;padding: 0;
+}
+
+nav li
+{
+	display: inline;
+	padding: 12px;
+	list-style-type: none;
+}
+
+nav li a
+{
+	text-decoration: none;
+	color: #000;
+	font-family: fantasy;
+	font-size: 1.3rem;
+}
+
+header h1
+{
+	margin: 0;
+}
+
+.head
+{
+	float: left;
+}
+
+nav
+{
+	margin-top: 5px;
+	float: right;
+}
+
+section
+{
+	text-align: center;;
+	color :#fff;
+}
+
+section h2
+{
+	font-size: 2.7rem;
+	margin-top: 15%;
+}
+
+section p
+{
+	font-family: center;
+	font-size: 1.5rem;
+}
+
+.btn1
+{
+	padding: 0.7rem;
+	color: #fff;
+	background-color: #4267B2;
+	border: none;
+	border-radius: 1.2rem;
+	margin-top: 2%;
+}
+
+.btn2
+{
+	padding: 0.7rem;
+	color: #fff;
+	background-color: transparent;
+	width: auto;
+	margin: 2% 2%;
+	border-radius: 1.2rem;
+}
+
+footer
+{
+	background-color: #fff;
+	padding: 0.7rem;
+	margin-top: 10%;
+	font-family: cursive;
+}
+
+.lefty
+{
+	float: left;'
+	width: 20%;'
+}
+
+.righty
+{
+	float: right;
+	width: 80%;
+}
